@@ -3888,6 +3888,9 @@ function completed() {
 	jQuery.ready();
 }
 
+$(document).ready(function(){
+    $(this).scrollTop(0);
+});
 // Catch cases where $(document).ready() is called
 // after the browser event has already occurred.
 // Support: IE <=9 - 10 only
