@@ -25,6 +25,11 @@
     border: 1px solid #343a40;
 }
 
+.carousel-control {
+  padding-top:10%;
+  width:5%;
+}
+
 .bio-pic {
 	padding-left: 253px;
   padding-bottom: 15px;
