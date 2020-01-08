@@ -3879,7 +3879,8 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  /*color: #495057;*/
+  color: #000000;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -5906,7 +5907,8 @@ button.close {
 .carousel-control-prev:hover, .carousel-control-prev:focus,
 .carousel-control-next:hover,
 .carousel-control-next:focus {
-  color: #fff;
+  /*color: #fff;*/
+  color: #000000;
   text-decoration: none;
   outline: 0;
   opacity: .9;
